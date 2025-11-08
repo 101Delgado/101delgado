@@ -26,7 +26,7 @@
 <div style="overflow: auto;">
   
   <div style="float: right; margin-left: 20px;">
-    <img src="URL_IMAGEN_GRANDE" alt="Diagrama del Proyecto" width="250"> 
+    <img src="png-clipart-human-intellect-illustration-artificial-intelligence-deep-learning-machine-learning-computer-icons-artificial-neural-network-technology-electronics-text-thumbnail-removebg-preview.png" alt="Diagrama del Proyecto" width="250"> 
   </div>
   
   <div style="margin-right: 280px;">
