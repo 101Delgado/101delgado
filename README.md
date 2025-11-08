@@ -1,5 +1,13 @@
 ## Hi there 👋
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Basic .NET Badge"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP Badge"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+</p>
 <!--
 **101Delgado/101delgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
