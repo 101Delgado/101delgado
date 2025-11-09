@@ -1,3 +1,4 @@
+
 ## Habilidades Tecnológicas
 
 <div style="text-align: left;">
@@ -19,23 +20,4 @@
   <span style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   </span>
-</div>
-
-## Herramientas para el Machine Learning
-
-<div style="overflow: auto;">
-  
-  <div style="float: right; margin-left: 20px;">
-    <img src="png-clipart-human-intellect-illustration-artificial-intelligence-deep-learning-machine-learning-computer-icons-artificial-neural-network-technology-electronics-text-thumbnail-removebg-preview.png" alt="Diagrama del Proyecto" width="250"> 
-  </div>
-  
-  <div style="margin-right: 280px;">
-  
-   * 🐍 **Python 3.x**
-   * 🐼 **Pandas** (Ideal para estructuras de datos)
-   * 🧠 **NumPy** (Para cálculos numéricos eficientes)
-   * 🤖 **Scikit-learn** (Para modelado de ML)
-   * 📊 **Matplotlib** (Para visualización de datos)
-   * ✍️ **Jupyter Notebook** (Entorno de desarrollo)
-  </div>
 </div>
