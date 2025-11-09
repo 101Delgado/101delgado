@@ -1,3 +1,4 @@
+<img src="banner.png"/>
 
 ## Habilidades Tecnológicas
 
