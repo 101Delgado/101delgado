@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ## Habilidades Tecnológicas
+  ## 💻 Habilidades Tecnológicas
   
   <img src="Python-Dark.svg" alt="Descripción Imagen 1" width="45"/>
   <img src="C.svg" alt="Descripción Imagen 2" width="45"/>
@@ -22,5 +22,18 @@
   ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white)
+  
+</div>
+
+<div align="center">
+  
+  ## 🧮 Elementos Matemáticos Clave
+  
+  ![Álgebra Lineal](https://img.shields.io/badge/Álgebra_Lineal-4B8BBE?style=for-the-badge&logoColor=white)
+  ![Cálculo](https://img.shields.io/badge/Cálculo-4B8BBE?style=for-the-badge&logoColor=white)
+  ![Probabilidad y Estadística](https://img.shields.io/badge/Probabilidad_y_Estadística-4B8BBE?style=for-the-badge&logoColor=white)  
+![Optimización](https://img.shields.io/badge/Optimización-4B8BBE?style=for-the-badge&logoColor=white)
+  ![Cálculo de Tensores](https://img.shields.io/badge/Cálculo_de_Tensores-4B8BBE?style=for-the-badge&logoColor=white)
+![Teoría de la Información](https://img.shields.io/badge/Teoría_de_la_Información-4B8BBE?style=for-the-badge&logoColor=white)
   
 </div>
