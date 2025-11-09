@@ -1,7 +1,16 @@
 <img src="banner.png"/>
 
-## Habilidades Tecnológicas
-
+<div align="center">
+  
+  ## Habilidades Tecnológicas
+  
+  <img src="Python-Dark.svg" alt="Descripción Imagen 1" width="45"/>
+  <img src="C.svg" alt="Descripción Imagen 2" width="45"/>
+  <img src="Django.svg" alt="Descripción Imagen 3" width="45"/>
+  <img src="HTML.svg" alt="Descripción Imagen 4" width="45"/>
+  <img src="PyTorch-Dark.svg" alt="Descripción Imagen 4" width="45"/>
+  
+</div>
 <div align="center">
   
   ## 🧠 Librerías de IA Utilizadas
